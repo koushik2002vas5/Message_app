@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "244412363606",
+    "project_id": "koushik-hw04",
+    "storage_bucket": "koushik-hw04.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244412363606:android:1ce9f6fda198bacc8f5cf7",
+        "android_client_info": {
+          "package_name": "com.example.msgboardapp_hw04"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnEhfWQucvXtVgClNoJGAITCf3q7a7ero"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
